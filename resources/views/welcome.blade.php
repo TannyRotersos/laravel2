@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="{{route('api')}}">Login with oAuths</a>
-                    <a href="{{route('api')}}">Click to Create Todo's</a>
+                    <a href="{{route('view.todos')}}">Click to View Todos</a>
                 </div>
             </div>
         </div>
